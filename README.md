@@ -1,1 +1,1 @@
-# spark-joy-
+# spark-joy
